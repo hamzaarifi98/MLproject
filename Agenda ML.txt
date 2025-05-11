@@ -1,0 +1,6 @@
+First Tutorial
+
+1 - Set up the GitHub {Repository}
+	a) New environment 
+	b) Setup.py
+	c) Requirements.txt
