@@ -4,3 +4,12 @@ First Tutorial
 	a) New environment 
 	b) Setup.py
 	c) Requirements.txt
+2 - Create src folder and build setup
+
+Second Tutorial
+
+1. Create components folder and in it create __init__.py
+# this is folder where we install all components like data ingestion(reading data from a database). 
+	- Then we create data_transformation.py to be able to transform data 
+	- Then we create model_trainer.py so we can train the model
+2. Create a folder named pipeline and we will use 2 types of pipeline, one for training and one for prediction
